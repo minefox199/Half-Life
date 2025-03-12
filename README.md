@@ -14,3 +14,4 @@ RAM: 512 MB
 Video Card: DirectX 8.1 level Graphics Card (requires support for SSE)
 Pixel Shader: 2.0
 Vertex Shader: 2.0
+for what ever reason I can not put the files on here its so confusing I need help
